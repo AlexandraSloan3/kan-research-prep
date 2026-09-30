@@ -13,7 +13,7 @@ A ground-up LaTeX write-up connecting linear algebra, calculus, and probability 
 
 ### KAN study notes
 
-Notes worked directly from the KAN paper and related literature — theorems, derivations, and worked examples, dated as they're written.
+Jupyter notebooks from the second pass through neural network fundamentals. Each section states the key formulas in LaTeX, then implements them from scratch in PyTorch with an explicit check for correctness. Notes on concepts from the KAN literature are added as the research reaches them.
 
 - [Notes](kan-study-notes/)
 
